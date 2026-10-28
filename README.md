@@ -2,7 +2,7 @@
 
 Formulario de inscripcion redisenado aplicando principios de UX/UI.
 
-Pagina publicada: https://TU-USUARIO.github.io/taller-ux/
+Pagina publicada: https://4D43.github.io/taller-ux/
 
 ## Cambios aplicados
 
