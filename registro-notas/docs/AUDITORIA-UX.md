@@ -47,6 +47,6 @@ A continuación se detalla el análisis del estado original (Antes) y el redise�
 ### Capturas del Reporte Lighthouse
 
 - **Antes (Versión Inicial):**
-  ![Lighthouse Antes](https://via.placeholder.com/600x200?text=Lighthouse+Accesibilidad:+68)
+  ![Lighthouse Antes](68)
 - **Después (Versión Optimizada):**
-  ![Lighthouse Después](https://via.placeholder.com/600x200?text=Lighthouse+Accesibilidad:+100)
+  ![Lighthouse Después](100)
